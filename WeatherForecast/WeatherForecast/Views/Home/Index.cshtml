@@ -1,0 +1,46 @@
+﻿<script>
+    function CountryChanged() {
+        var country = $("#CountryList").val();
+
+        $.post("@(Url.Action("GetCityList", "Weather"))", { countryCode: country },
+            function (data) {
+                if (data != "err") {
+                    $(CityList).find("option").remove();
+                    var cityArr = data.split(",");
+                    $.each(cityArr, function (key, obj) {
+                        var $option = $("<option />");
+                        $option.attr("value", obj).text(obj);
+                        $(CityList).append($option);
+                    });
+                }
+         });
+    }
+
+    function GetWeatherInformation() {
+        var country = $("#CountryList").val();
+        var cityName = $("#CityList").val();
+        $.post("@(Url.Action("GetWeatherInformation", "Weather"))", { countryCode: country, cityName: cityName },
+            function (data) {
+                $("#lblInformation").html(data);
+         }); 
+    }
+</script>
+
+<h2> Weather Forecast</h2>
+
+<table>
+    <tr>
+        <td>Country :</td>
+        <td>@Html.DropDownList("CountryList", null, new { onchange = "CountryChanged()", style = "width: 200px;" })</td>
+    </tr>
+    <tr>
+        <td style="padding-top:15px;">City :</td>
+        <td style="padding-top:15px;">@Html.DropDownList("CityList", null, new { style = "width: 200px;" })</td>
+    </tr>
+</table>
+<div style="padding-top:20px;">
+    <button id="btnWeather" onclick="GetWeatherInformation()">Get information</button>
+</div>
+<div style="padding-top:20px;">
+    <label id="lblInformation"></label>
+</div>
