@@ -1,0 +1,164 @@
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\WeatherForecast.dll.config
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\WeatherForecast.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\WeatherForecast.pdb
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\csc.exe
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\csc.exe.config
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\csc.rsp
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\csi.exe
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\csi.exe.config
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\csi.rsp
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.AppContext.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Console.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.Compression.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Claims.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.ValueTuple.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\vbc.exe
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\vbc.exe.config
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\vbc.rsp
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\VBCSCompiler.exe
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\Antlr3.Runtime.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\Newtonsoft.Json.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Net.Http.Formatting.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Helpers.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Http.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Http.WebHost.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Mvc.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Optimization.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Razor.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.Razor.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\WebGrease.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\Newtonsoft.Json.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Net.Http.Formatting.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Helpers.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Http.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Http.WebHost.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Mvc.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Optimization.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.Razor.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.Razor.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\Antlr3.Runtime.pdb
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csprojAssemblyReference.cache
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CopyComplete
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.dll
+C:\Users\PriyanLinardi\source\repos\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\WeatherForecast.dll.config
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\WeatherForecast.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\WeatherForecast.pdb
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\csc.exe
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\csc.exe.config
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\csc.rsp
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\csi.exe
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\csi.exe.config
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\csi.rsp
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.AppContext.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Collections.Immutable.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Console.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.Compression.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.FileSystem.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.IO.Pipes.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Reflection.Metadata.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.AccessControl.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Claims.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.ValueTuple.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Xml.XPath.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\vbc.exe
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\vbc.exe.config
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\vbc.rsp
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\VBCSCompiler.exe
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\roslyn\VBCSCompiler.exe.config
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\Antlr3.Runtime.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\Microsoft.Web.Infrastructure.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\Newtonsoft.Json.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Net.Http.Formatting.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Helpers.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Http.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Http.WebHost.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Mvc.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Optimization.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Razor.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.Deployment.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.Razor.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\WebGrease.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\Newtonsoft.Json.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Net.Http.Formatting.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Helpers.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Http.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Http.WebHost.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Mvc.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Optimization.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.Razor.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.Deployment.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\System.Web.WebPages.Razor.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\Antlr3.Runtime.pdb
+C:\Learn Project\WeatherForecast\WeatherForecast\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Learn Project\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csprojAssemblyReference.cache
+C:\Learn Project\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Learn Project\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CopyComplete
+C:\Learn Project\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.dll
+C:\Learn Project\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
